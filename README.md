@@ -1,6 +1,8 @@
-# dose_reponse
-
 This code is associated with the publication: 
 ### Spatial patterns of dose-response relationships between mercury and cortisol in the fur of river otter (Lontra canadensis). 
 
-Eccles, K.M., Thomas, P. J., & Chan, H. M. (2019). Spatial patterns of dose-response relationships between mercury and cortisol in the fur of river otter (Lontra canadensis). Submitted to Environmental Science and Technology
+Eccles, K. M., Thomas, P. J., & Chan, H. M. (2021). Spatial patterns of the exposure-response relationship between mercury and cortisol in the fur of river otter (Lontra canadensis). Chemosphere, 263, 127992.
+
+
+Abstract
+Fur has been validated as a useful biomarker medium for chemical exposures and biological responses in wildlife. Mercury (Hg) is known to act as an endocrine disruptor by altering brain neurochemistry. In this study, we investigated the spatial patterns of relationships between total Hg (THg) and cortisol in the fur of river otter (Lontra canadensis). Geotagged fur samples were obtained from a wildlife biomonitoring program (n = 72) and the North American Fur Auction (n = 37) between 2014 and 2017. Fur THg was measured using direct thermal decomposition and fur cortisol was measured using an enzyme-linked immunosorbent assay (ELISA). The average fur THg concentration was 11.50 ± 12.40 μg/g fur weight (f.w.), and the fur cortisol concentration was 5.71 ± 8.24 pg/mg. Results from the global ordinary least squares regression show no relationship between THg and fur cortisol concentrations. However, both Hg and cortisol were heterogeneously distributed across the landscape. When a localized geographically weighted regression (GWR) was used, a geographically distinct bi-phasic relationship was observed. We suggest this bi-phasic relationship is associated with a threshold THg concentration, beyond which, there was a negative association with measured fur cortisol. Results of a break-point analysis, with one break, indicate that the threshold is 16 ± 1.27 μg/g f. w of THg in fur. This research highlights the need to use appropriate spatial methods when assessing exposure-response relationships in wildlife across large geographical areas. The identified threshold can be used for regulatory purposes.
